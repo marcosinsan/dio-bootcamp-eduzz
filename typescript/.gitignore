@@ -1,0 +1,10 @@
+### VS Code ###
+.vscode/
+
+## Outros ##
+.metadata/
+.parcel-cache/
+dist/
+
+## Node.js ##
+node_modules
